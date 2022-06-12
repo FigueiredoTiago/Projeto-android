@@ -103,13 +103,29 @@ main a:hover
 .imagem
 {
     width:100%;
-    display: block;
     margin: auto;
+}
+.droids
+{
+
+    display: none;
+}
+.irina
+{
+    display: none;
+}
+.irinag
+{
+    width: 73vw;
     
+}
+.droidsg
+{
+    
+    width: 75vw;
+
 
 }
-
-
 #titulo
 {
     font-family:'droid';
@@ -126,12 +142,6 @@ main a:hover
     background-image: linear-gradient(to right, #83e1ad, transparent);
     text-indent: 8px;
 
-}
-.pequena
-{
-    max-width: 350px;
-    display: block;
-    margin: auto;
 }
 .video
 {
